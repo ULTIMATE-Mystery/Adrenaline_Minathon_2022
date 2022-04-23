@@ -1,6 +1,9 @@
 package com.example.adrenaline;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -75,5 +78,9 @@ public class HomeActivity extends AppCompatActivity {
         home_below_recycle.setLayoutManager(layoutManager);
         home_below_adapter= new HomeBelowAdapter(this,HomeBelowList);
         home_below_recycle.setAdapter(home_below_adapter);
+    }
+    public void launch(View view) {
+        Intent intent = new Intent(this,HomePayActivity.class);
+        startActivity(intent);
     }
 }

@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Adrenaline</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">BottomNavigation</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_interest">Interest</string>
+    <string name="menu_profile">Profile</string>
 </resources>

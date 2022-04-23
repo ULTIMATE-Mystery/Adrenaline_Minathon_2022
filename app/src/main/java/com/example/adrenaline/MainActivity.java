@@ -1,7 +1,10 @@
 package com.example.adrenaline;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.AutoCompleteTextView;
+import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -21,6 +24,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+    }
+    public void launch(View view) {
+        Intent intent = new Intent(this,HomeActivity.class);
+        startActivity(intent);
     }
 
 }

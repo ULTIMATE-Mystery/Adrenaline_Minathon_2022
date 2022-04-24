@@ -13,6 +13,20 @@
 
         >
         <activity
+            android:name=".Category"
+            android:label = "Category"
+            android:parentActivityName=".MainActivity"
+            android:exported="false"
+            >
+        </activity>
+        <activity
+            android:name=".Interest"
+            android:label = "Interest"
+            android:parentActivityName=".MainActivity"
+            android:exported="false"
+            >
+        </activity>
+        <activity
             android:name=".ProfileActivity"
             android:label = "ProfileActivity"
             android:parentActivityName=".MainActivity"

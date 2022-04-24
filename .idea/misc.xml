@@ -8,9 +8,14 @@
         <entry key="..\:/Adrenaline_Minathon_2022/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/home_cate_computer_foreground.xml" value="0.1705" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/home_cate_music_foreground.xml" value="0.1705" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/ic_category.xml" value="0.1715" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1715" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/ic_for_Modau_background.xml" value="0.1" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/ic_interest.xml" value="0.1705" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/rounded.xml" value="0.1705" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/drawable/search.xml" value="0.1715" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/category.xml" value="0.2734375" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/home_below_recycle.xml" value="0.25" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/home_category_recycle.xml" value="0.26979166666666665" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/home_layout.xml" value="0.2734375" />
@@ -18,8 +23,16 @@
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/home_ready_for_pay.xml" value="0.5" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/home_ready_to_pay_first_behindscene.xml" value="0.45" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/home_ready_to_pay_second_behindscene.xml" value="0.2734375" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/interest.xml" value="0.2734375" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/profile.xml" value="0.2734375" />
-        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/layout/ranking_layout.xml" value="0.2734375" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/home_cate_computer.xml" value="0.1715" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/home_cate_computer_round.xml" value="0.1715" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/ic_for_Modau.xml" value="0.1715" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/ic_for_Modau_round.xml" value="0.136" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/ic_for_modau.xml" value="0.136" />
+        <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/ic_for_modau_round.xml" value="0.136" />
         <entry key="..\:/ForMobileAppOnly/Adrenaline_Minathon_2022/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1705" />
         <entry key="..\:/Users/qvuqv/Adrenaline/app/src/main/res/layout/activity_main.xml" value="0.371875" />
         <entry key="..\:/Users/qvuqv/Adrenaline/app/src/main/res/layout/fragment_dashboard.xml" value="0.18085106382978725" />

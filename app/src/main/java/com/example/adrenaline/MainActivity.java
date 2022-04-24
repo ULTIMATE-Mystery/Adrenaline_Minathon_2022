@@ -14,7 +14,6 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.adrenaline.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -31,6 +30,14 @@ public class MainActivity extends AppCompatActivity {
     }
     public void launchToProfile(View view) {
         Intent intent = new Intent(this,ProfileActivity.class);
+        startActivity(intent);
+    }
+    public void launchToCategory(View view) {
+        Intent intent = new Intent(this,Category.class);
+        startActivity(intent);
+    }
+    public void launchToInterest(View view) {
+        Intent intent = new Intent(this,Interest.class);
         startActivity(intent);
     }
 }

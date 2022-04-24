@@ -13,6 +13,13 @@
 
         >
         <activity
+            android:name=".ProfileActivity"
+            android:label = "ProfileActivity"
+            android:parentActivityName=".MainActivity"
+            android:exported="false"
+            >
+        </activity>
+        <activity
             android:name=".HomePayActivity"
             android:label = "HomePayActivity"
             android:parentActivityName=".HomeActivity"
